@@ -3,6 +3,7 @@
 // utilizando funções para verificação de formação de triângulo, 
 // com ponteiros e alocação dinâmica dos lados. 
 #include <stdio.h>
+#include <stdlib.h>
 
 typedef struct {
     int lado1;
